@@ -92,6 +92,11 @@
 | 见识：商业的本质和人生的智慧|    Done    |   |
 | 麦田守望者|     Done   |   |
 | 射雕英雄传|     Done   |   |
+| 陆小凤传奇|     Done   |   |
+| The little prince|     Done   |   |
+| The black beauty|     Done   |   |
+| Narnia|     Done   |   |
+| 旧制度与大革命|     Doing   |   |
 
 
 # On Shedule
@@ -99,4 +104,6 @@
 | :--- | :---- |:----: |
 | 一个人的朝圣|        |   |
 | 白夜行|        |   |
+| 美国种族史|        |   |
+
 
