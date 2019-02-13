@@ -88,6 +88,7 @@
 | 汪曾祺谈吃|Part|   |
 | 百年孤独| Done       |   |
 | 倾城|     Done   |   |
+| 人生的枷锁|   Done     |   |
 | 穆斯林的葬礼|   Done     |   |
 | 见识：商业的本质和人生的智慧|    Done    |   |
 | 麦田守望者|     Done   |   |
@@ -95,8 +96,10 @@
 | 陆小凤传奇|     Done   |   |
 | The little prince|     Done   |   |
 | The black beauty|     Done   |   |
-| Narnia|     Done   |   |
+| Narnia|     Doing   |   |
+| 我们仨|     Done   |   |
 | 旧制度与大革命|     Doing   |   |
+| 儒林外史|     Doing   |   |
 
 
 # On Shedule
@@ -114,7 +117,6 @@
 | 南渡北归|        |   |
 | 了不起的盖茨比|        |   |
 | 多情剑客无情剑|        |   |
-| 我们仨|        |   |
 
  
  
