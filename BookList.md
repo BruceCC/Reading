@@ -99,7 +99,7 @@
 | Narnia|     Doing   |   |
 | 我们仨|     Done   |   |
 | 旧制度与大革命|     Doing   |   |
-| 儒林外史|     Doing   |   |
+| 儒林外史|     Done   |   |
 
 
 # On Shedule
