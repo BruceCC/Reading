@@ -43,14 +43,16 @@
 | 此间的少年|Done|   |
 | 与空姐同居的日子|Done|   |
 | 明朝那些事|Done|   |
-| 悟空传|Part|   |
-| 让青春继续|Part|   |
+| 悟空传|Done|   |
+| 让青春继续|Done|   |
+| 沪江不眠夜|Done|   |
+| 羊城岁月|Done|   |
 | 商战|Done|   |
 | 二号首长|Done|   |
 | 狼图腾|Done|   |
 | 蒋介石传|Done|   |
 | 现当代诗歌精选集|Part|   |
-| 藏地密码|Doing|   |
+| 藏地密码|Done|   |
 | 你的孤独虽败犹荣|Done|   |
 | 追风筝的人|Done|   |
 | 中国哲学史|Part|   |
@@ -81,7 +83,7 @@
 | 斯坦福极简经济学|Part|   |
 | 张爱玲作品集|Part|   |
 | 黄金时代|Part|   |
-| 华衫讲透孙子兵法|Doing|   |
+| 华衫讲透孙子兵法|Part|   |
 | 流血的仕途：大秦帝国之李斯|Done|   |
 | 激荡的三十年|Done|   |
 | 万历十五年|Done|   |
@@ -96,7 +98,8 @@
 | 陆小凤传奇|     Done   |   |
 | The little prince|     Done   |   |
 | The black beauty|     Done   |   |
-| Narnia|     Doing   |   |
+| The pride and prejudice|     Done   |   |
+| Narnia|     Done   |   |
 | 我们仨|     Done   |   |
 | 旧制度与大革命|     Doing   |   |
 | 儒林外史|     Done   |   |
