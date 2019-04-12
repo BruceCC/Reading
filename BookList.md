@@ -99,9 +99,9 @@
 | 射雕英雄传|     Done   |   |
 | 陆小凤传奇|     Done   |   |
 | The little prince|     Done   |   |
-| The black beauty|     Done   |   |
-| The pride and prejudice|     Done   |   |
-| Narnia|     Done   |   |
+| Black beauty|     Done   |   |
+| Pride and prejudice|     Done   |   |
+| The chronicles of Narnia|     Done   |   |
 | 我们仨|     Done   |   |
 | 旧制度与大革命|     Doing   |   |
 | 儒林外史|     Done   |   |
