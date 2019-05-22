@@ -102,6 +102,8 @@
 | Black beauty|     Done   |   |
 | Pride and prejudice|     Done   |   |
 | The chronicles of Narnia|     Done   |   |
+| The Old Man and the Sea|     Done   |   |
+| The Adventures of Sherlock Holmes|     Doing   |   |
 | 我们仨|     Done   |   |
 | 旧制度与大革命|     Done   |   |
 | 爱的饥渴|     Done   |   |
