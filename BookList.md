@@ -113,6 +113,7 @@
 | 我不|    Doing    |   |
 | 具体生活|    Doing    |   |
 | 金字塔原理|    Doing    |   |
+| 一本书读懂财报|    Doing    |   |
 
 
 # On Shedule
