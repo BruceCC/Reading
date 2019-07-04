@@ -102,14 +102,12 @@
 | Black beauty|     Done   |   |
 | Pride and prejudice|     Done   |   |
 | The chronicles of Narnia|     Done   |   |
-| The Old Man and the Sea|     Done   |   |
+| The old man and the Sea|     Done   |   |
 | 我们仨|     Done   |   |
 | 旧制度与大革命|     Done   |   |
-| 爱的饥渴|     Done   |   |
 | 儒林外史|     Done   |   |
 | 爱你就像爱生命|     Done   |   |
-| 个人的体验|     Doing   |   |
-| 多情剑客无情剑|    Doing    |   |
+| 多情剑客无情剑|    Done    |   |
 | 我不|    Doing    |   |
 | 具体生活|    Doing    |   |
 | 金字塔原理|    Doing    |   |
@@ -129,6 +127,7 @@
 | 乌合之众:大众心里研究|        |   |
 | 南渡北归|        |   |
 | 了不起的盖茨比|        |   |
+| 绝代双骄|        |   |
 
 
  
