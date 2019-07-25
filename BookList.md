@@ -1,5 +1,5 @@
 # Reading Progress Chart
-| BookName | Status | Time |
+| BookName | Status | Finish Time |
 | :--- | :---- |:----: |
 | 钢铁是怎样炼成的|Done|  2004 |
 |三国演义 | Part  | |
