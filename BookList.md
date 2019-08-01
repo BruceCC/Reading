@@ -113,7 +113,7 @@
 | 金字塔原理|    Doing    |   |
 | 一本书读懂财报|    Doing    |   |
 | 人类群星闪耀时|     Doing   |   |
-| 绝代双骄|     Doing   |   |
+| 绝代双骄|     Done   | 2019  |
 
 
 # On Shedule
