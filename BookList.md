@@ -1,4 +1,4 @@
-# Reading Progress Chart
+# Reading List
 | BookName | Status | Finish Time |
 | :--- | :---- |:----: |
 | 钢铁是怎样炼成的|Done|  2004 |
